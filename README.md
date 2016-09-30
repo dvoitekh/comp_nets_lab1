@@ -1,5 +1,5 @@
 # comp_nets_lab1
-2 client-server apps based on TCP and UDP sockets respectively
+2 client-server apps based on TCP and UDP sockets respectively. Client sends 2 arrays(boolean and integer) to Server wich process them.
 
 ##How to run
 Enter either `tcp` or `udp` folder
